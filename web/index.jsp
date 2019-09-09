@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-  <title>首页</title>
+  <title>首页11</title>
 </head>
 <body>
 <a href="/mvc1_0_war_exploded/listStudentServlet"> ListallStudent</a>
